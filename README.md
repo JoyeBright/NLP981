@@ -7,7 +7,7 @@
 
 ## Contents
 
-* ### Week 1
-  Supervised Classification, Confusion Matrix, Whisker Plot, Data Splitting, Using Supervised Models like Logistic Regression, Decision Tree and so on.
+* ### Week 1: Supervised Classification
+  Confusion Matrix, Whisker Plot, Data Splitting, Using Supervised Models like Logistic Regression, Decision Tree and so on.
  
  
