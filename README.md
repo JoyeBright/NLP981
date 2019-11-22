@@ -9,5 +9,6 @@
 
 * ### Week 1: Supervised Classification
   Confusion Matrix, Whisker Plot, Using Supervised Models like Logistic Regression, Decision Tree and so on.
- 
- 
+
+* ### Week 2: Introduction to Neural Network
+  Feedforward NN, Using a loss function, Updating weights in backpropagation, Gradient Descent Algorithm
