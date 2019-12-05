@@ -6,7 +6,7 @@
     * [NLP981] 1st semester of 2019/1398
 * Credits: 3.0
 * Instructor: Javad PourMostafa
-
+* <b>Note: Drop me a line to get the slides!</b>
 
 ## Contents
 
@@ -20,4 +20,4 @@
   Bag of Words, Finding Unique Words, Creating Document-Word Matrix, TF-IDF Computation<br> 
   Finally, investigate our naive TF-IDF model in comparison with SKlearn TfidfVectorizer
 
-* <b>Note: Drop me a line to get the slides!</b>
+
