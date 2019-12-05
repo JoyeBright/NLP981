@@ -6,6 +6,7 @@
     * [NLP981] 1st semester of 2019/1398
 * Credits: 3.0
 * Instructor: Javad PourMostafa
+* <b>Drop me a line to get the slides!</b>
 
 
 ## Contents
