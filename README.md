@@ -1,9 +1,10 @@
-# Natural Language Processing
+# Natural Language Processing 981
 
 ## Course Information
 
-* Materials prepared for NLP offered :
-    * at University of Guilan [NLP981], Fall 2018
+* Name: Natural Language Processing
+* Code: 981
+* Fall 2019 : Wednesday 3:00 – 6:15pm, 15 Engineering Faculty
 * Credits: 3.0
 * Instructor: [Javad PourMostafa](https://javad.pourmostafa.com)
 * TA: Parsa Abbasi
