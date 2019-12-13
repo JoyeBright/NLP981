@@ -12,10 +12,10 @@
 ## Theoretical Sessions
 
 * ### Week 1: Introduction to NLP
-  Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks)<br>
-  Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification<br>
-  Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression, Gradient Descent<br>
-  Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
+  > Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks)<br>
+  > Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification<br>
+  > Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression, Gradient Descent<br>
+  > Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
 
 * ### Week 2: Language Modeling
   Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)<br>
