@@ -22,7 +22,7 @@
 * ### Week 2: Language Modeling
   > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)
   > Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)
-  > Laplace Smoorhing(Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
+  > Laplace Smoorhing (Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
 
 * ### Week 3: Hidden Markov Model for Sequence Labeling (POS)
   > Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities
