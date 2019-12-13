@@ -31,9 +31,13 @@
   > The XOR problem, Feed-Forward Neural Networks, Trainin Neural Networks, Loss Function
   > Cross-Entropy Loss, Droupout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models
   > Gated Recurrent Neural Networks, LSTM
+  
 * ### Week 5: Vector Semantics And Embeddings
   > Word Similarities, Embeddings, Term-Document matrix, Document-Term matrix, Term-Context matrix, Visualizing Document Vectors, Word Window, Reminders from Linear Algebra, Cosine Computing Similarity, Pointwise Mutual Information (PMI),
   Dense Embeddings sources , Word2vec, Skip-gram Algorithm, Skip-Gram with Negative sampling
+  
+* ### Week 6: Topic Modeling
+  > Probabilistic Latent Semantic Analysis (PLSA), Problem of probability of densityestimation, MLE, Expectation-Maximization Algorithm, Using MLE in PLSA, Using EM in PLSA, E-Step in PLSA, M-Step in PLSA
   
 ## Practical Sessions
 
