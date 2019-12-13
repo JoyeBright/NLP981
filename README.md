@@ -2,7 +2,7 @@
 
 ## Course Information
 
-* Codes written for NLP offered at University of Guilan:
+* Materials prepared for NLP offered at University of Guilan:
     * [NLP981] 1st semester of 2019/1398
 * Credits: 3.0
 * Instructor: [Javad PourMostafa](https://javad.pourmostafa.com)
