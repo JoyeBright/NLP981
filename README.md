@@ -39,7 +39,7 @@
   Dense Embeddings sources , Word2vec, Skip-gram Algorithm, Skip-Gram with Negative sampling
   
 * ### Week 6: Topic Modeling
-  > Probabilistic Latent Semantic Analysis (PLSA), Problem of probability of densityestimation, MLE, Expectation-Maximization Algorithm, Using MLE in PLSA, Using EM in PLSA, E-Step in PLSA, M-Step in PLSA
+  > Probabilistic Latent Semantic Analysis (PLSA), Problem of probability of density estimation, MLE, Expectation-Maximization Algorithm, Using MLE in PLSA, Using EM in PLSA, E-Step in PLSA, M-Step in PLSA
   
 ## Practical Sessions
 
