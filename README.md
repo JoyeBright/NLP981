@@ -18,19 +18,19 @@
   > Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
 
 * ### Week 2: Language Modeling
-  Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)<br>
-  Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)<br>
-  Laplace Smoorhing(Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
+  > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)
+  > Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)
+  > Laplace Smoorhing(Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
 
 * ### Week 3: Hidden Markov Model for Sequence Labeling (POS)
-  Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities<br>
-  HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
+  > Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities
+  > HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
 
 * ### Week 4: Neural Language Models
-  Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron<br>
-  The XOR problem, Feed-Forward Neural Networks, Trainin Neural Networks, Loss Function<br>
-  Cross-Entropy Loss, Droupout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models<br>
-  Gated Recurrent Neural Networks, LSTM
+  > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron
+  > The XOR problem, Feed-Forward Neural Networks, Trainin Neural Networks, Loss Function
+  > Cross-Entropy Loss, Droupout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models
+  > Gated Recurrent Neural Networks, LSTM
   
 ## Practical Sessions
 
