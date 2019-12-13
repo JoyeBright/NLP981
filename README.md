@@ -26,6 +26,12 @@
   Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities<br>
   HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
 
+* ### Week 4: Neural Language Models
+  Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron<br>
+  The XOR problem, Feed-Forward Neural Networks, Trainin Neural Networks, Loss Function<br>
+  Cross-Entropy Loss, Droupout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models<br>
+  Gated Recurrent Neural Networks, LSTM
+  
 ## Practical Sessions
 
 * ### Week 1: Supervised Classification
