@@ -22,6 +22,10 @@
   Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)<br>
   Laplace Smoorhing(Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
 
+* ### Week 3: Hidden Markov Model for Sequence Labeling (POS)
+  Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities<br>
+  HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
+
 ## Practical Sessions
 
 * ### Week 1: Supervised Classification
