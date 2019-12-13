@@ -28,8 +28,8 @@
 
 * ### Week 4: Neural Language Models
   > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron
-  > The XOR problem, Feed-Forward Neural Networks, Trainin Neural Networks, Loss Function
-  > Cross-Entropy Loss, Droupout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models
+  > The XOR problem, Feed-Forward Neural Networks, Training Neural Networks, Loss Function
+  > Cross-Entropy Loss, Dropout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models
   > Gated Recurrent Neural Networks, LSTM
   
 * ### Week 5: Vector Semantics And Embeddings
