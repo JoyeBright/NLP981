@@ -14,25 +14,17 @@
 ## Theoretical Sessions
 
 * ### Week 1: Introduction to NLP
-  > Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks)
-  > Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification, Gradient Descent
-  > Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression
-  > Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
+  > Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks), Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification, Gradient Descent, Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression, Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
 
 * ### Week 2: Language Modeling
-  > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)
-  > Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)
-  > Laplace Smoorhing (Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
+  > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE), Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting), Laplace Smoorhing (Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
 
 * ### Week 3: Hidden Markov Model for Sequence Labeling (POS)
   > Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities
   > HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
 
 * ### Week 4: Neural Language Models
-  > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron
-  > The XOR problem, Feed-Forward Neural Networks, Training Neural Networks, Loss Function
-  > Cross-Entropy Loss, Dropout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models
-  > Gated Recurrent Neural Networks, LSTM
+  > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron, The XOR problem, Feed-Forward Neural Networks, Training Neural Networks, Loss Function, Cross-Entropy Loss, Dropout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models, Gated Recurrent Neural Networks, LSTM
   
 * ### Week 5: Vector Semantics And Embeddings
   > Word Similarities, Embeddings, Term-Document matrix, Document-Term matrix, Term-Context matrix, Visualizing Document Vectors, Word Window, Reminders from Linear Algebra, Cosine Computing Similarity, Pointwise Mutual Information (PMI),
