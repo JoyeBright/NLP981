@@ -9,7 +9,20 @@
 * TA: Parsa Abbasi
 * <b>Note: Drop me a line to get the slides!</b>
 
-## Contents
+## Theoretical Sessions
+
+* ### Week 1: Introduction to NLP
+  Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks)<br>
+  Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification<br>
+  Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression, Gradient Descent<br>
+  Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
+
+* ### Week 2: Language Modeling
+  Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE)<br>
+  Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting)<br>
+  Laplace Smoorhing(Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
+
+## Practical Sessions
 
 * ### Week 1: Supervised Classification
   Confusion Matrix, Whisker Plot, Using Supervised Models like Logistic Regression, Decision Tree, and so on.
