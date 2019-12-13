@@ -4,7 +4,8 @@
 
 * Name: Natural Language Processing
 * Code: 981
-* Fall 2019 : Wednesday 3:00 – 6:15pm, 15 Engineering Faculty
+* Fall 2019, Wednesday 3:00pm – 6:15pm
+* 15 Engineering Faculty, University of Guilan,
 * Credits: 3.0
 * Instructor: [Javad PourMostafa](https://javad.pourmostafa.com)
 * TA: Parsa Abbasi
