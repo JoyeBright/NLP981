@@ -7,7 +7,7 @@
 * Credits: 3.0
 * Instructor: [Javad PourMostafa](https://javad.pourmostafa.com)
 * TA: Parsa Abbasi
-* <b>:warning:: Drop me a line to get the slides!</b>
+* <b>:warning: Drop me a line to get the slides!</b>
 
 ## Theoretical Sessions
 
