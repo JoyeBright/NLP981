@@ -7,7 +7,7 @@
 * Fall 2019, Wednesday 3:00pm – 6:15pm
 * 15, Engineering Faculty, University of Guilan
 * Credits: 3.0
-* Instructor: [Javad PourMostafa](https://javad.pourmostafa.com)
+* Lecturer: [Javad PourMostafa](https://javad.pourmostafa.com)
 * TA: Parsa Abbasi
 * <b>NB: Drop me a line to get the slides!</b>
 
