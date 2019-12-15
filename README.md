@@ -3,7 +3,7 @@
 ## Course Information
 
 * Name: Natural Language Processing
-* Code: 981
+* Code: [981](https://javad.pourmostafa.com/NLP981)
 * Fall 2019, Wednesday 3:00pm – 6:15pm
 * 15, Engineering Faculty, University of Guilan
 * Credits: 3.0
