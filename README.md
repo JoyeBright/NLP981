@@ -45,7 +45,7 @@
   > Bag of Words, Finding Unique Words, Creating Document-Word Matrix, TF-IDF Computation
   Finally, investigate our naive TF-IDF model in comparison with SKlearn TfidfVectorizer
   
-* ### Week 4: Word2Vec, SkipGram Algorithm
+* ### Week 4: Word2Vec (SkipGram Algorithm)
   > Finding word similarities, Set hyperparameters, Generate training data, Fit an unsupervised model, Model the testing samples 
 
 ## License
