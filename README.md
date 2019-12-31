@@ -24,7 +24,7 @@
   > HMM for POS tagging, Text generation in HMM, Training HMM, Viterbi Algorithm, Using Dynamic Programming for backtracing
 
 * ### Week 4: Neural Language Models
-  > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron, The XOR problem, Feed-Forward Neural Networks, Training Neural Networks, Loss Function, Cross-Entropy Loss, Dropout, A Neural Probabilistic Language Model, Recurrent Neural Languge Models, Gated Recurrent Neural Networks, LSTM
+  > Curse of Dimensionality, Distributed Representation, Neuron, Activation Functions, The Perceptron, The XOR problem, Feed-Forward Neural Networks, Training Neural Networks, Loss Function, Cross-Entropy Loss, Dropout, A Neural Probabilistic Language Model, Recurrent Neural Language Models, Gated Recurrent Neural Networks, LSTM
   
 * ### Week 5: Vector Semantics And Embeddings
   > Word Similarities, Embeddings, Term-Document matrix, Document-Term matrix, Term-Context matrix, Visualizing Document Vectors, Word Window, Reminders from Linear Algebra, Cosine Computing Similarity, Pointwise Mutual Information (PMI),
