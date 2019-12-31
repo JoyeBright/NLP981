@@ -17,7 +17,7 @@
   > Main Approaches (Rule-based, Probabilistic Models, Traditional ML algorithms and Neural Networks), Confusion Matrix, Semantic Slot Filling, NLP Pyramid, Scenario of Text Classification, Gradient Descent, Tokenization, Normalization, Stemmer, Lemmatizer, BoW, N-Grams, TF-IDF, Binary Logistic Regression, Hashing Features for word representation, Neural Vectorization, 1-D Convolutional Layer
 
 * ### Week 2: Language Modeling
-  > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE), Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting), Laplace Smoorhing (Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
+  > Chain Rule, Probability of a sequence of words, Markov assumption, Bi-gram, Maximum Likelihood Estimation (MLE), Generative Model, Evaluating Language Models (Extrinsic, Intrinsic), Perplexity, Smoothing (discounting), Laplace Smoothing (Add-one, Add-k), Stupid/Katz Backoff, Kneser-Ney Smoothing
 
 * ### Week 3: Hidden Markov Model for Sequence Labeling (POS)
   > Sequence Labeling, Markov Model Scenario, Markov Chain Model, Emission and Transition Probabilities
